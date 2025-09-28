@@ -4,3 +4,5 @@ for a in range (1,numb+1):
     print("*",end="")
 
 print()
+
+print ("END")
